@@ -37,7 +37,7 @@ An android project which implements all java libraries and code required for Fir
 ```java
     FirebaseTokenGenerator
 ```
-    (You may find these files in the same location in this project
+    (You may find these files in the same location in this project)
 
 * Copy required code from MainActivity to your desired activity in your project
 
