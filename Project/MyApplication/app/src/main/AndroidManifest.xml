@@ -2,6 +2,9 @@
 <manifest package="mumayank.com.firebaseauthwithcustomtokenandroidproject"
           xmlns:android="http://schemas.android.com/apk/res/android">
 
+    <!-- Internet permissions required for Firebase -->
+    <uses-permission android:name="android.permission.INTERNET" />
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
