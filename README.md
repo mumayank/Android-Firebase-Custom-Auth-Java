@@ -6,7 +6,7 @@ Using this project to create production build of the app is NOT recommended.
 You should never ship your Firebase Secret in your app.
 ```
 
-## To build a similar project yourself from scratch:
+# To build a similar project yourself from scratch:
 
 * Create new android studio project.
 
@@ -44,6 +44,6 @@ You should never ship your Firebase Secret in your app.
 ```
     (You may find these files in the same location in this project)
 
-* Copy required code from MainActivity to your desired activity in your project
+* Copy required code from `MainActivity` to your desired activity in your project
 
-* Add your firebase link and secret in your strings.xml (or in some class if you are planning to better obfuscate these strings.)
+* Add your firebase link and secret in your `strings.xml` (or in some class if you are planning to better obfuscate these strings.)
