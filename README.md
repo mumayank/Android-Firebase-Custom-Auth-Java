@@ -1,6 +1,10 @@
 # Android-Firebase-Custom-Auth-Java
 An android project which implements all java libraries and code required for Firebase auth with custom token.
-######(Please note that such app is only good for testing/ debugging purposes. Using this project to create production build of the app is NOT recommended. You should never ship your Firebase Secret in your app.)
+```
+NOTE: Please note that such app is only good for testing/ debugging purposes.
+Using this project to create production build of the app is NOT recommended.
+You should never ship your Firebase Secret in your app.
+```
 
 ## To build a similar project yourself from scratch:
 
