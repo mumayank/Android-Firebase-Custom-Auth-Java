@@ -36,13 +36,13 @@ An android project which implements all java libraries and code required for Fir
     commons-codec-1.7.jar
     json-20090211.jar
 ```
-    (You may find these files in the same location in this project)
+(You may find these files in the same location in this project)
 
 * Under `MyApplication/app/src/java/<your_application>` add Folder
 ```java
     FirebaseTokenGenerator
 ```
-    (You may find these files in the same location in this project)
+(You may find these files in the same location in this project)
 
 * Copy required code from `MainActivity` to your desired activity in your project
 
